@@ -28,7 +28,7 @@ public class Solution {
         {
         System.out.println("Not Weird");
         }
-    }
+    } 
     else 
     {
         System.out.println("Weird");
