@@ -1,5 +1,5 @@
 # HackerRank-Java Solutions 
-1. ***Java Practice Example Solutions. 
+##Java Practice Example Solutions*** 
 2.Welcome To Java!.
 3.Java Stdin and Stdout 1
 4.Java If-Else
